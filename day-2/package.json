@@ -1,0 +1,20 @@
+{
+  "name": "bundlers",
+  "version": "1.0.0",
+  "description": "knowing about bundlers , virtual dom and dom ",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
